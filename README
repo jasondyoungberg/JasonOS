@@ -1,7 +1,7 @@
-Linux kernel
+JasonOS kernel
 ============
 
-The Linux kernel is the core of any Linux operating system. It manages hardware,
+The JasonOS kernel is the core of any JasonOS operating system. It manages hardware,
 system resources, and provides the fundamental services for all other software.
 
 Quick Start
